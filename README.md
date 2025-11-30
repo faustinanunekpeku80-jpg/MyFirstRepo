@@ -1,1 +1,3 @@
-readme
+"first repository"
+
+"GitHub learning task"
